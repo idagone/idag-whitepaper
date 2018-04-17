@@ -24,5 +24,5 @@ Each account has blockchain, each account-chain has its own data, and models fit
 
 # References
 
-[1] Blocklattice, introduced in the Nano (formerly Raiblocks) cryptocurrency, with each account owning a blockchain, and each account-chain to be updated immediately and asynchronously. We further enhance this with each account-chain has it's own data and it's own Machine Learning Models customed trained with this account's data. 
+[1] Blocklattice, introduced in the Nano (formerly Raiblocks) cryptocurrency, with each account owning a blockchain, and each account-chain to be updated immediately and asynchronously. We further enhance this with each account-chain having it's own data and it's own Machine Learning Models customed trained with this account's data. 
  
